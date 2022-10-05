@@ -1,3 +1,4 @@
+![logo](https://github.com/SaurabhNagaich/Github-Banner/blob/main/banner%20Saurabh.png)
 <h1 align="center">Hi 👋 , I'm Saurabh Nagaich</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
