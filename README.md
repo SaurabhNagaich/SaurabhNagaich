@@ -131,7 +131,12 @@ With a **B.Tech in Electronics & Communication** and an **MBA in Data Science & 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhNagaich&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
+### ⏱️ Weekly Live Coding Activity
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 ---
 
 ### 🐍 Live Contribution Snake (Auto-Updated via GitHub Actions)
