@@ -141,7 +141,7 @@ With a **B.Tech in Electronics & Communication** and an **MBA in Data Science & 
     <img alt="github-snake" src="https://raw.githubusercontent.com/SaurabhNagaich/SaurabhNagaich/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
----
+
 
 ### ⏱️ Weekly Live Coding Activity
 
