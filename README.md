@@ -27,6 +27,9 @@
   <a href="https://saurabhnagaich.github.io/intelligent-portfolio/">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
+  <a href="https://orcid.org/0009-0007-1840-9970">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
   <a href="mailto:saurabh.nagaich.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
