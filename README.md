@@ -154,8 +154,6 @@ With a **B.Tech in Electronics & Communication** and an **MBA in Data Science & 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
 ### 🏆 Coding Profiles & Algorithmic Arena
 
 <div align="center">
