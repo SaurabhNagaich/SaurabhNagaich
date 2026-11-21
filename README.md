@@ -102,6 +102,15 @@ With a **B.Tech in Electronics & Communication** and an **MBA in Data Science & 
 </div>
 
 ---
+### 🏆 Engineering Milestones & Trophies
+
+<div align="center">
+  <a href="https://github.com/SaurabhNagaich">
+    <img src="https://github-trophies.vercel.app/?username=SaurabhNagaich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
 
 ### 📊 Live Auto-Updating GitHub Telemetry
 
