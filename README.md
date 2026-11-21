@@ -1,43 +1,54 @@
-![logo](https://github.com/SaurabhNagaich/Github-Banner/blob/main/banner%20Saurabh.png)
-<h1 align="center">Hi 👋 , I'm Saurabh Nagaich</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ============================================================== -->
+<!--                       ANIMATED HERO BANNER                     -->
+<!-- ============================================================== -->
+<div align="center">
+  <img src="https://github.com/SaurabhNagaich/Github-Banner/blob/main/Github_poster.png" alt="Saurabh Nagaich Banner" width="70%"/>
+</div>
 
-<img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s">
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnagaich&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnagaich" /> </p>
+<!-- ============================================================== -->
+<!--                    DYNAMIC TYPING HEADER SVG                   -->
+<!-- ============================================================== -->
+<div align="center">
+  <a href="https://saurabhnagaich.github.io/intelligent-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh+Nagaich;Executive+-+R%26D+%7C+Full-Stack+.NET+%26+AI+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Humanoid Robot](https://github.com/SaurabhNagaich/SaurabhNagaich)
+<!-- ============================================================== -->
+<!--                   LIVE METRICS & SOCIAL BADGES                 -->
+<!-- ============================================================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhnagaich&label=PROFILE+VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/saurabh-nagaich-38b9ab192">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://saurabhnagaich.github.io/intelligent-portfolio/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:saurabh.nagaich.in@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/SaurabhNagaich6">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **DotNet, Kotlin**
+<br/>
 
-- 👯 I’m looking to collaborate on [School Managment System](https://github.com/SaurabhNagaich/School-Managment-system)
+<!-- ============================================================== -->
+<!--              ABOUT ME + ANIMATED DEVELOPER GIF                 -->
+<!-- ============================================================== -->
+<img align="right" alt="Coding Animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🤝 I’m looking for help with [Face Detection System](https://github.com/SaurabhNagaich/FaceDetection_Django)
+### ⚡ System Profile & Current Focus
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaurabhNagaich](https://github.com/SaurabhNagaich)
-
-- 💬 Ask me about **python,Django,Flask,AI,IOT,C#**
-
-- 📫 How to reach me **Nagaichsaurabh320@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saurabhnagaich6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhnagaich6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh nagaich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh nagaich" height="30" width="40" /></a>
-<a href="https://fb.com/saurabh nagaich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh nagaich" height="30" width="40" /></a>
-<a href="https://instagram.com/ladoo.lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladoo.lover" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nagaichsaurabh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nagaichsaurabh31" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@saurabh nagaich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saurabh nagaich" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nagaichsaurabh320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nagaichsaurabh320" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhnagaich&show_icons=true&locale=en&layout=compact" alt="saurabhnagaich" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhnagaich&show_icons=true&locale=en" alt="saurabhnagaich" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhnagaich&" alt="saurabhnagaich" /></p>
+```yaml
+Role: "Executive – R&D @ CG Power & Industrial Solutions Ltd."
+Past_Experience: "Software Developer @ CoreCard Software (FinTech Payments)"
+Education: "MBA (Data Science & Business Analytics) | B.Tech (ECE)"
+Specialization:
+  - "Enterprise .NET Core, C#, WPF & SCADA/PLC Industrial Systems"
+  - "High-Throughput FinTech Authorization, ISO 8583, EMV & 3DS"
+  - "Agentic AI Workflows, RAG Pipelines & Python Automation"
